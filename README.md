@@ -1,4 +1,4 @@
-# ECE 6990: Master's Thesis Materials
+# Model-Based and Learning-Based Pursuit-Evasion Control: A Benchmark Comparison of Linear-Quadratic Game Theory and Deep Reinforcement Learning
 
 A portfolio of code, experiments, and documentation for my MSc Thesis at Tennessee Tech University. My research sits at the intersection of optimal control, game-theoretic multi-agent systems, and reinforcement learning, with applications to pursuit–evasion and autonomous vehicles.
 
