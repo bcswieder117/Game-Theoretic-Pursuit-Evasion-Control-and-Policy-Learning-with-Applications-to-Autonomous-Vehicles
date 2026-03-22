@@ -2,6 +2,8 @@
 
 A portfolio of code, experiments, and documentation for my MSc Thesis at Tennessee Tech University. My research sits at the intersection of optimal control, game-theoretic multi-agent systems, and reinforcement learning, with applications to pursuit–evasion and autonomous vehicles.
 
+This will be presented at the Tennessee Tech Research Day 2026, the link about the event is given here: https://www.tntech.edu/research/research-day.php
+
 ## Abstract
 
 Intelligent Transportation Systems (ITS) and Connected Automated Vehicles (CAVs) increasingly operate in environments where safety-critical decisions emerge from strategic interactions between multiple agents. This thesis investigates pursuit–evasion as a controlled benchmark for comparing two fundamentally different control design philosophies: model-based linear-quadratic (LQ) dynamic game theory and deep reinforcement learning (DRL).
